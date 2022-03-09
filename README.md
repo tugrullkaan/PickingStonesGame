@@ -14,4 +14,5 @@ Formda ana taşın bir tahtaya yerleştirilmesi beklenir. Ana taş yerleştirild
 ![image](https://user-images.githubusercontent.com/61920968/157397077-11530fef-fef2-4b49-9ae4-36850fa084db.png)
 ![image](https://user-images.githubusercontent.com/61920968/157397109-7e31331b-d74a-4123-bc88-2210f397e903.png)
 
+Youtube Videosu
 https://youtu.be/WC6cU0sK4-4
